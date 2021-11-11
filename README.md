@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michaltyde
 - 👀 I’m interested in GitHub
 - 🌱 I’m currently learning YAML, GitHub Actions
-- 💞️ I’m looking to collaborate on Java/maven projects/
+- 💞️ I’m looking to collaborate on Java/maven projects
 - 📫 How to reach me michaltyde@gmail.com
 
 <!---
